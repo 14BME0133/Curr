@@ -3,8 +3,9 @@
 ## Copyright 2014 14BME0133
 
 ### Available downloads below:
-[Download 14BME0133 Curriculum](B. Tech. Mechanical Engg. Curriculum & Syllabus.pdf) Added files via upload 	111 months ago
-[Download 14BME0133 Curriculum](B.Tech - Mechanical Engineering.pdf) Added files via upload 	113 months ago
+[Download OLD 14BME0133 Curriculum](B. Tech. Mechanical Engg. Curriculum & Syllabus.pdf) Added files via upload 	111 months ago
+
+[Download NEW 14BME0133 Curriculum](B.Tech - Mechanical Engineering.pdf) Added files via upload 	113 months ago
 
 ---
 
