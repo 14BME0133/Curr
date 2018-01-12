@@ -1,4 +1,4 @@
-[14BME0133](https://14bme0133.github.io/)[X133-WIKI](https://14bme0133.github.io/Wiki)
+# [14BME0133](https://14bme0133.github.io/) [X133-WIKI](https://14bme0133.github.io/Wiki)
 
 __
 
@@ -16,3 +16,4 @@ I cherish this as my core-mentality, and hitherto try to offer my shares.
 \#\# | CODEname | BIGname | PubSTATE | Linkers | GRADESte | Remarks
 --- | --- | --- | --- | --- | --- | ---
 1. | MEE103 | Workshop Practice, The First | Unduly text | na | D, positive | Dr. acknowledged my troubles before even I even I stepped unto his classroomesque boutique of Machineshop  !
+2. | MEE106 | Engineering Drawing, The First | Files pending scanner-repair | na | D, positive | Introduction to 2D, 3D AND 4D (x,y,z,+T)
